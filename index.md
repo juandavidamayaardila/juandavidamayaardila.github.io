@@ -13,6 +13,8 @@ Mis pasatiempos son:
 
 
 
-### Support or Contact
+### Contacto
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Tel: 3113559485
+Juandavidamayaardila@gmail.com
+Armenia Quindío
