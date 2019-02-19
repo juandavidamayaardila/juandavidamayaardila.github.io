@@ -1,36 +1,17 @@
-## Bienvenido a GitHub Pages de Juan Amaya
+HOLAA Mundo Juan Amaya
 
-You can use the [editor on GitHub](https://github.com/juandavidamayaardila/juandavidamayaardila.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Mi nombre es Juan David Amaya, soy ingeniero de sistemas de la universidad del Quindío
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mis hobbies son
 
-### Markdown
+Mis pasatiempos son:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+1. Football
+2. Musica
+3. Percusion 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juandavidamayaardila/juandavidamayaardila.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
