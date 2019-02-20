@@ -20,7 +20,7 @@ Tel: 3113559485
 Juandavidamayaardila@gmail.com
 Armenia Quindío
 
-{::normarkdown}
+
 
 <html>
   <head>
@@ -96,4 +96,4 @@ Armenia Quindío
   </body>
 </html>
 
-{:/}
+
