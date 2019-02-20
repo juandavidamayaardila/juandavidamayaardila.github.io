@@ -44,11 +44,10 @@ Armenia Quindío
         data.addColumn('string', 'Topping');
         data.addColumn('number', 'Slices');
         data.addRows([
-          ['Mushrooms', 3],
-          ['Onions', 1],
-          ['Olives', 1],
-          ['Zucchini', 1],
-          ['Pepperoni', 2]
+          ['IE6', 30],
+          ['IE7', 25],
+          ['IE8', 45],
+       
         ]);
 
         // Set chart options
@@ -66,6 +65,8 @@ Armenia Quindío
   <body>
     <!--Div that will hold the pie chart-->
     <div id="chart_div"></div>
+  <input type="button" value="Default values" onclick="drawChart()"/>
+  <input type="button" value="New Values" onclick="changeValues()"/>
   </body>
 </html>
 
