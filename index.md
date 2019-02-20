@@ -64,9 +64,4 @@ Mis pasatiempos son:
 {:/}
 
 
-### Contacto
 
-Tel: 3113559485
-Juandavidamayaardila@gmail.com
-Armenia Quindío
-</html>
