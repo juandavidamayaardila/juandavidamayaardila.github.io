@@ -62,7 +62,7 @@ Armenia Quindío
       
       
       //cambio de datos
-      function changeValues() {
+      function cambioValores() {
 
         // Create the data table.
         var data = new google.visualization.DataTable();
@@ -91,8 +91,8 @@ Armenia Quindío
   <body>
     <!--Div that will hold the pie chart-->
     <div id="chart_div"></div>
-  <input type="button" value="Default values" onclick="drawChart()"/>
-  <input type="button" value="New Values" onclick="changeValues()"/>
+  <input type="button" value="Inicializar" onclick="drawChart()"/>
+  <input type="button" value="Cambio Valores" onclick="cambioValores()"/>
   </body>
 </html>
 
