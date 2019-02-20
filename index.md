@@ -44,6 +44,31 @@ Armenia Quindío
         data.addColumn('string', 'Topping');
         data.addColumn('number', 'Slices');
         data.addRows([
+          ['IE6', 15],
+          ['IE7', 20],
+          ['IE8', 65],
+       
+        ]);
+
+        // Set chart options
+        var options = {'title':'How Much Pizza I Ate Last Night',
+                       'width':400,
+                       'height':300};
+
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+      
+      
+      //cambio de datos
+      function changeValues() {
+
+        // Create the data table.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Topping');
+        data.addColumn('number', 'Slices');
+        data.addRows([
           ['IE6', 30],
           ['IE7', 25],
           ['IE8', 45],
@@ -59,6 +84,7 @@ Armenia Quindío
         var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
         chart.draw(data, options);
       }
+      
     </script>
   </head>
 
